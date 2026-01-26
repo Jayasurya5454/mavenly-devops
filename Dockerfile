@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ["python", "add.py"]
+CMD ["python", "sub2.py"]
